@@ -21,7 +21,7 @@ export const Container = styled.div`
 export const Img2 = styled.img`
   width: 50px;
   height: 50px;
-  border-radius: 5px;
+  border-radius: 50px;
   
 `
 export const Span = styled.span`
@@ -58,7 +58,7 @@ export const Div3 = styled.div`
 // Navigation Links
 export const NavLink = styled.a`
   font-size: 2rem;
-  line-height: 32px;
+  line-height: 48px;
   color: rgba(255, 255, 255, 0.75);
   transition: 0.4s ease;
   &:hover {
