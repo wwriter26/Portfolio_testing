@@ -28,7 +28,7 @@ const Hero = (props) => (
           )
         }
       >
-        My Resumé
+        My Resume
       </Button>
     </LeftSection>
   </Section>
